@@ -1,0 +1,14 @@
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+C:\Desktop\Code\C#\TestProject\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll
